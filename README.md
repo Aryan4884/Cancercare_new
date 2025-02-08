@@ -9,7 +9,6 @@ CancerCare is an AI-powered web application designed to detect cancer at early s
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -54,10 +53,6 @@ python app.py
 Open your web browser and go to http://localhost:5000 to access the application.
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any changes you'd like to propose.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 
 Thank you for checking out CancerCare! Your support is appreciated in the fight against cancer.
 
