@@ -8,7 +8,7 @@ import requests
 import imghdr
 from urllib.request import urlretrieve
 from dotenv import load_dotenv
-
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 app = Flask(__name__)
 load_dotenv()
 
