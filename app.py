@@ -20,7 +20,7 @@ if not API_KEY:
 genai.configure(api_key=API_KEY)
 
 # Google Drive model file link (Replace with your actual file ID)
-GOOGLE_DRIVE_FILE_ID = "https://drive.google.com/uc?export=download&id=1oexNe-WvK8QO5bBIozDl0uyuYANZIcX7"
+GOOGLE_DRIVE_FILE_ID = "1oexNe-WvK8QO5bBIozDl0uyuYANZIcX7"
 MODEL_PATH = "my_model.h5"
 
 def download_model_from_drive():
